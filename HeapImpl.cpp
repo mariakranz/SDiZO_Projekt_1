@@ -38,7 +38,8 @@ void HeapImpl::printHeap(std::string sp, std::string sn, int v)
         printHeap(s + cp, cl, 2 * v + 1);
     }
 
-}
+}       //algorytm wyświetlania kopca zaczerpnięty ze strony I-LO w Tarnowie
+                                                                            //autorstwa mgr Jerzego Wałaszka
 
 void HeapImpl::buildHeap() {
     for (int i = (size/2) - 1; i >= 0 ; i--){

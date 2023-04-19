@@ -135,7 +135,8 @@ void RBTImpl::printRBT(std::string sp, std::string sn, RBNode *p) {
         printRBT ( t+cp, cl, p->left );
     }
 
-}
+}   //algorytm wyświetlania kopca zaczerpnięty ze strony I-LO w Tarnowie
+                                                                          //autorstwa mgr Jerzego Wałaszka
 
 void RBTImpl::print() {
     printRBT ( "", "", root );

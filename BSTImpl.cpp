@@ -43,7 +43,8 @@ void BSTImpl::printBT (std::string sp, std::string sn, BSTNode * v )
         if( sn == cl ) s [ s.length( ) - 2 ] = ' ';
         printBT ( s + cp, cl, v->left );
     }
-}
+}   //algorytm wyświetlania kopca zaczerpnięty ze strony I-LO w Tarnowie
+                                                                             //autorstwa mgr Jerzego Wałaszka
 
 void BSTImpl::treeInsert(int val) {
     size++;
