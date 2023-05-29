@@ -5,6 +5,3 @@ Zaimplementowane zostały struktury danych takie jak: tablica dynamiczna, lista 
 Język: C++  
 
 Algorytmy inspirowane _Wprowadzeniem do algorytmów_ Thomasa Cormena   
-
-Kod oceniony na 5  
-Sprawozdanie na 5= (5 na szynach) - błędy: wnioski do dodawania do listy i RBT (może kiedyś poprawie :D)
