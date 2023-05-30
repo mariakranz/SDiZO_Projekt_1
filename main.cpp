@@ -9,6 +9,7 @@ FileData* file;
 void menuStructures(char option);
 
 int main(){
+    cout << "Autorka: Maria Kranz, 18.04.2023" << endl;
     char choice;
     string fileName;
 
